@@ -3,8 +3,8 @@
   margin: 0;
   box-sizing: border-box;
   color: #ffffff;
-
-  /* border: 1px solid #fff; */
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
 }
 :root {
   --Blue: hsl(246, 80%, 60%);
