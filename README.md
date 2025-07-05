@@ -9,10 +9,10 @@
 
 ## The challenge
 
-Your challenge is to build out this dashboard and get it looking as close to the design as possible.
+This challenge is to build out this dashboard and get it looking as close to the design as possible.
 
 
-The users should can:
+The users can:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
